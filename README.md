@@ -17,20 +17,17 @@ A 300-level Computer Science student at Obafemi Awolowo University, passionate a
 ## Skills  
 
 ### Technical  
-- **Backend**: NestJS, ExpressJS, MongoDB, Docker, Redis, RabbitMQ, Mongoose  
+- **Backend**: NestJS, ExpressJS, MongoDB, PostgreSQL, Docker, Redis, BullMQ, RabbitMQ, Mongoose, Prisma  
 - **Frontend**: Next.js, Tailwind CSS  
-- **Programming Languages**: TypeScript, JavaScript, C  
-- **Tools**: Turborepo, Git, Github  
-
-### Interested in Learning  
-- Firebase, PostgreSQL, TypeORM, Prisma  
+- **Programming Languages**: TypeScript, JavaScript, C, Rust, Python  
+- **Tools**: Turborepo, Git, GitHub  
 
 ---
 
 ## Education  
 **B.Sc. Computer Science with Economics**  
-Obafemi Awolowo University, Nigeria  
-**Current Level**: 300 (Graduating 2026)
+*Obafemi Awolowo University, Nigeria*  
+**Current Level**: 300 (Graduating 2027)
 
 ---
 
@@ -43,6 +40,29 @@ Obafemi Awolowo University, Nigeria
 
 ---
 
+## Projects  
+
+### Library API  
+- **Description**: Developed a scalable API for library management, allowing users to explore books, check availability, and manage borrowing and returning.  
+- **Technologies Used**: NestJS, MongoDB, Prisma, Docker  
+- **Key Features**:  
+  - User Authentication: Sign up, sign in, and sign out functionalities.  
+  - Profile Management: View, edit, and delete user profiles.  
+  - Book Browsing and Searching: Comprehensive catalog with search and filter capabilities.  
+  - Book Borrowing and Returning: Seamless process for borrowing and returning books.  
+- **GitHub Repository**: [github.com/Phastboy/library](https://github.com/Phastboy/library)
+
+### Custom `printf` Implementation  
+- **Description**: Developed a custom version of the C `printf` function, handling various format specifiers and demonstrating a deep understanding of variadic functions and formatted output in C.  
+- **Technologies Used**: C programming language  
+- **Key Features**:  
+  - Supports format specifiers: `%c`, `%s`, `%d`, `%i`, and `%%`.  
+  - Utilizes variadic arguments to handle a variable number of inputs.  
+  - Implements custom functions for character and string output.  
+- **GitHub Repository**: [github.com/Phastboy/printf](https://github.com/Phastboy/printf)
+
+---
+
 ## Extracurricular Activities  
 - **Cowrywise Campus Ambassador**  
 - Active contributor to tech communities and open-source projects.  
@@ -50,5 +70,6 @@ Obafemi Awolowo University, Nigeria
 ---
 
 ## Interests  
-- Software Engineering
-- Backend Engineering 
+- Software Engineering  
+- Backend Engineering  
+- Exploring Rust and system-level programming  
