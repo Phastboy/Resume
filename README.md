@@ -44,7 +44,7 @@ A 300-level Computer Science student at Obafemi Awolowo University, passionate a
 
 ### Library API  
 - **Description**: Developed a scalable API for library management, allowing users to explore books, check availability, and manage borrowing and returning.  
-- **Technologies Used**: NestJS, MongoDB, Docker  
+- **Technologies Used**: NestJS, MongoDB, Prisma, Docker  
 - **Key Features**:  
   - User Authentication: Sign up, sign in, and sign out functionalities.  
   - Profile Management: View, edit, and delete user profiles.  
