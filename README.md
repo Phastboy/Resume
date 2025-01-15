@@ -17,20 +17,17 @@ A 300-level Computer Science student at Obafemi Awolowo University, passionate a
 ## Skills  
 
 ### Technical  
-- **Backend**: NestJS, ExpressJS, MongoDB, Docker, Redis, RabbitMQ, Mongoose  
+- **Backend**: NestJS, ExpressJS, MongoDB, Postgresql, Docker, Redis, BullMQ, RabbitMQ, Mongoose, Prisma 
 - **Frontend**: Next.js, Tailwind CSS  
-- **Programming Languages**: TypeScript, JavaScript, C  
-- **Tools**: Turborepo, Git, Github  
-
-### Interested in Learning  
-- Firebase, PostgreSQL, TypeORM, Prisma  
+- **Programming Languages**: TypeScript, JavaScript, C, Rust, Python. 
+- **Tools**: Turborepo, Git, Github    
 
 ---
 
 ## Education  
 **B.Sc. Computer Science with Economics**  
 Obafemi Awolowo University, Nigeria  
-**Current Level**: 300 (Graduating 2026)
+**Current Level**: 300 (Graduating 2027)
 
 ---
 
